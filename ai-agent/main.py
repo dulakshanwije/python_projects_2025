@@ -17,7 +17,7 @@ class ResearchResponse(BaseModel):
 
 llm = ChatOpenAI(model='gpt-4o-mini')
 
-praser = PydanticOutputParser(pydantic_object=ResearchResponse)
+parser = PydanticOutputParser(pydantic_object=ResearchResponse)
 
 prompt = ChatPromptTemplate.from_messages(
     [
@@ -33,7 +33,7 @@ prompt = ChatPromptTemplate.from_messages(
         ("human","{query}"),
         ("placeholder","{agent_scratchpad}"),
     ]
-    ).partial(format_instructions=praser.get_format_instructions())
+    ).partial(format_instructions=parser.get_format_instructions())
 
 tools = [search_tool,wiki_tool,save_tool]
 
@@ -48,7 +48,7 @@ query = input("What can I help you research?")
 raw_response = agent_executor.invoke({"query":query})
 
 try:
-    structured_response = praser.parse(raw_response.get("output")[0]["text"])
+    structured_response = parser.parse(raw_response.get("output")[0]["text"])
     print(structured_response)
 except Exception as e:
     print("Error parsing response.", e , " Raw response: ", raw_response)

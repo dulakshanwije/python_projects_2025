@@ -8,3 +8,26 @@ Timestamp: 2025-03-19 22:36:53
 
 Sri Lanka, historically known as Ceylon, and officially the Democratic Socialist Republic of Sri Lanka, is an island country in South Asia, located in the Indian Ocean to the south of the Indian subcontinent. It is separated from India by the Palk Strait. The country has a rich history and diverse culture, being one of the oldest continuously inhabited places in the world. Sri Lanka is known for its production of tea, rubber, and coconut, and is also famous for its ancient Buddhist ruins, tropical beaches, and wildlife.
 
+--- Research Output ---
+Timestamp: 2025-03-19 22:46:02
+
+# Leopards in Asia
+
+Leopards have the largest range of all wild cats, inhabiting various regions across Africa and Asia, although their populations are becoming increasingly fragmented and declining. In Asia, leopards can be found in several countries, including India, China, and eastern Russia.
+
+## Habitat and Distribution
+
+In Asia, leopards thrive in diverse habitats such as lush forests, temperate regions, and the snow-covered Himalayas. They typically inhabit regions where grasslands, woodlands, and riparian forests remain undisturbed. Their adaptability is notable, as they can also be found near human settlements, utilizing agricultural fields and areas near villages.
+
+## Population and Conservation
+
+Despite their adaptability, leopards in Asia face significant threats from habitat loss due to human expansion and agricultural development. Their range has decreased by approximately 31 percent worldwide in the last three generations (about 22 years), resulting in a notable decline in their population numbers. In 1750, leopards roamed nearly the entire expanse of Africa south of the Sahara and extended through Central Asia to China. By 2019, they had lost up to 75 percent of their former range.
+
+### Snow Leopards
+
+In addition to the common leopard, snow leopards, which are native to Central and South Asia, are classified as a vulnerable species by The International Union for Conservation of Nature (IUCN). They are adapted to cold, mountainous environments and are an integral part of the ecosystem.
+
+## Conclusion
+
+The plight of leopards in Asia highlights the need for conservation efforts. Protecting their habitats and ensuring their survival requires coordinated efforts from governments, NGOs, and local communities. Without such measures, these magnificent creatures may face an uncertain future.
+
